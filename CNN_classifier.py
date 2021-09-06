@@ -169,3 +169,4 @@ if __name__ == "__main__":
 
     # predict sample
     predict(model, X_to_predict, y_to_predict)
+    plot
